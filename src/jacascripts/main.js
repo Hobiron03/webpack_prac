@@ -1,5 +1,6 @@
-import my from "./my";
 import "../stylesheets/main.css";
+import my from "./my";
 
-console.log("webpack!");
-my();
+
+console.log("webpack")
+my()
